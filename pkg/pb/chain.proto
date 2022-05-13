@@ -1,6 +1,6 @@
 syntax = "proto3";
 package quorum.pb;
-option go_package = "github.com/rumsystem/rumchaindata/pkg/pb";
+option go_package = "github.com/tymon42/rumchaindata/pkg/pb";
 
 enum PackageType {
     TRX      = 0;

@@ -1,0 +1,361 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for x86_64-pc-msys
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Fri May 13 20:48:31 2022
+
+# Variables
+
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+SYSTEMDRIVE = C:
+# environment
+LC_ALL = C
+# environment
+USERPROFILE = C:\Users\why00
+# environment
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+# environment
+LOCALAPPDATA = C:\Users\why00\AppData\Local
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-7cc6f1a6-f84a-432a-9f26-d0384f6330bb-sock
+# environment
+VSCODE_CWD = C:\Users\why00\Documents\project\go\src\rumchaindata
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+PROCESSOR_LEVEL = 23
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make
+# environment
+GOPATH = C:\Users\why00\Documents\project\go
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_32408_OMSGFJUFUZHFSZJT
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\why00\AppData\Roaming\Code\CachedData\da15b6fd3ef856477bf6f4fb29ba1b7af717770d
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = /c/Users/why00/AppData/Local/Temp
+# default
+.INCLUDE_DIRS = /usr/include /usr/include
+# makefile
+MAKEFLAGS = pqrR
+# environment
+ONEDRIVE = C:\Users\why00\OneDrive
+# makefile
+CURDIR := /c/Users/why00/Documents/project/go/src/rumchaindata
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+PROGRAMFILES = C:\Program Files
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+!C: = c:\Users\why00\Documents\project\go\src\rumchaindata
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# makefile (from 'makefile', line 1)
+MAKEFILE_LIST := makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 32408
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+*F = $(notdir $*)
+# makefile (from 'makefile', line 2)
+PROTOC = $(shell which protoc)
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"zh-cn","availableLanguages":{},"_languagePackSupport":true}
+# environment
+ONEDRIVECONSUMER = C:\Users\why00\OneDrive
+# default
+MAKE_HOST := x86_64-pc-msys
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := /bin/sh
+# environment
+CLASSPATH = .;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;
+# environment
+HOMEPATH = \Users\why00
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /c/Program Files/Go/bin:/c/Program Files/Common Files/Oracle/Java/javapath:/c/Users/why00/AppData/Local/bin/NASM:/c/Program Files (x86)/VMware/VMware Workstation/bin:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/Program Files/dotnet:/c/Program Files/Git/cmd:/c/ProgramData/chocolatey/bin:/c/Program Files/Docker/Docker/resources/bin:/c/ProgramData/DockerDesktop/version-bin:/c/Users/why00/Documents/tools/tcc:/c/Program Files/MongoDB/Server/5.0/bin:/c/Program Files/nodejs:/mingw64/bin:/usr/bin:/c/Users/why00/Documents/tools/libvlc:/c/Users/why00/Documents/tools/libvlc/include:/c/Users/why00/scoop/shims:/c/Users/why00/AppData/Local/Microsoft/WindowsApps:/c/Users/why00/AppData/Local/Programs/Microsoft VS Code/bin:/c/Users/why00/Documents/tools/JDK8/bin:/c/Users/why00/Documents/tools/JDK8/jre/bin:/c/Users/why00/Documents/tools/Go/bin:/c/Program Files/nodejs/node_modules/npm/bin:/c/Users/why00/Documents/tools/sqlite:/c/Users/why00/Anaconda3/python.exe:/c/Users/why00/AppData/Local/Microsoft/WindowsApps:/c/Users/why00/Anaconda3/Library/bin:/c/Users/why00/Anaconda3/Scripts:/c/Users/why00/Anaconda3:/c/Users/why00/Documents/project/go/bin:/c/Users/why00/AppData/Roaming/npm:/c/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin:/c/Users/why00/go/bin:/mingw64/bin:/usr/bin:/c/Users/why00/Documents/tools/libvlc:/c/Users/why00/Documents/tools/libvlc/include:/c/Users/why00/go/bin
+# environment
+COMPUTERNAME = LAPTOP-D97KAF3C
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+PROMPT = $P$G
+# environment
+CHOCOLATEYLASTPATHUPDATE = 132967447644124791
+# environment
+GOROOT = C:\Program Files\Go
+# environment
+LOGONSERVER = \\LAPTOP-D97KAF3C
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = why00
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = LAPTOP-D97KAF3C
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# makefile
+.DEFAULT_GOAL := compile
+# default
+MAKE_VERSION := 4.3
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+USERDOMAIN_ROAMINGPROFILE = LAPTOP-D97KAF3C
+# environment
+NUMBER_OF_PROCESSORS = 12
+# environment
+PUBLIC = C:\Users\Public
+# environment
+ASL.LOG = Destination=file
+# environment
+APPDATA = C:\Users\why00\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+GOMODCACHE = C:\Users\why00\Documents\project\go\pkg\mod
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = /home/why00
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# makefile (from 'makefile', line 1)
+PROTOC_GEN_GO = $(GOPATH)/bin/protoc-gen-go
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = /c/Users/why00/AppData/Local/Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\045babbf4a02076ce09b41af89c9365a-1.67.1-main-sock
+# environment
+TERM = xterm-256color
+# environment
+GOPROXY = https://goproxy.cn,direct
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+SESSIONNAME = Console
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
+# environment
+PROCESSOR_REVISION = 6001
+# environment
+CHOCOLATEYTOOLSLOCATION = C:\tools
+# environment
+PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
+# variable set hash-table stats:
+# Load=109/1024=11%, Rehash=0, Collisions=13/139=9%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 3269420062, inode 10414574138969779): 7 files, no impossibilities.
+
+# 7 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+compile: chain.proto activity_stream.proto rumexchange.proto
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/3=0%
+
+chain.proto:
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: ''
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := chain.proto
+# automatic
+# * := 
+# automatic
+# < := 
+# automatic
+# + := 
+# automatic
+# % := 
+# automatic
+# ^ := 
+# automatic
+# ? := 
+# automatic
+# | := 
+# variable set hash-table stats:
+ 
+# Load=8/32=25%, Rehash=0, Collisions=1/11=9%
+#  recipe to execute (from 'makefile', line 7):
+	protoc -I=pkg/pb --go_out=pkg/pb pkg/pb/chain.proto
+	mv pkg/pb/github.com/tymon42/rumchaindata/pkg/pb/chain.pb.go pkg/pb/chain.pb.go
+	sed -i 's/TimeStamp,omitempty/TimeStamp,omitempty,string/g' pkg/pb/chain.pb.go
+
+activity_stream.proto:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'makefile', line 12):
+	protoc -I=pkg/pb --go_out=pkg/pb pkg/pb/activity_stream.proto
+	mv pkg/pb/github.com/tymon42/rumchaindata/pkg/pb/activity_stream.pb.go pkg/pb/activity_stream.pb.go
+	sed -i 's/TimeStamp,omitempty/TimeStamp,omitempty,string/g' pkg/pb/activity_stream.pb.go
+
+buildall: compile
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all: compile
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/3=0%
+
+build: compile
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-13 20:48:19.9909456
+#  File has been updated.
+#  Successfully updated.
+
+rumexchange.proto:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'makefile', line 17):
+	protoc -I=pkg/pb --go_out=pkg/pb pkg/pb/rumexchange.proto 
+	mv pkg/pb/github.com/tymon42/rumchaindata/pkg/pb/rumexchange.pb.go pkg/pb/rumexchange.pb.go
+	sed -i 's/TimeStamp,omitempty/TimeStamp,omitempty,string/g' pkg/pb/rumexchange.pb.go
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=10/1024=1%, Rehash=0, Collisions=0/31=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 17 / storage = 152 B / avg = 8 B
+# current buf: size = 8162 B / used = 152 B / count = 17 / avg = 8 B
+
+# strcache performance: lookups = 36 / hit rate = 52%
+# hash-table stats:
+# Load=17/8192=0%, Rehash=0, Collisions=0/36=0%
+# Finished Make data base on Fri May 13 20:48:31 2022
+
+ 
